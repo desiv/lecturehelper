@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LectureHelper</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="spinnerItems">
+        <item>General</item>
+        <item>Theory</item>
+        <item>Lab</item>
+        <item>Seminar</item>
+    </string-array>
+</resources>
